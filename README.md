@@ -34,5 +34,5 @@ Szkolenie Indywidualne tester manualny 05.04.2022
 
 ## MY REPORT
 ## MY REPORT FOR 
-* [Report PDF]()
+* [Report PDF](link do raportu)
 * [Report Excell](Link do raportu Excell)
