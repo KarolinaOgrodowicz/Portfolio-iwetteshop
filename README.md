@@ -29,10 +29,10 @@ Szkolenie Indywidualne tester manualny 05.04.2022
 * [Test cases](tu link do google drive z plikiem z test case)
 ## MY BUGS
 ## MY BUGS FOR 
-* [nazwa buga](link do buga z google drive)
+* [nazwa buga]((https://drive.google.com/file/d/1YLbFxAPlS9H_39bY8_ReJtcnVRud-rpl/view?usp=sharing))
 * [nazwa buga](link do buga z google drive)
 
 ## MY REPORT
 ## MY REPORT FOR 
-* [Report PDF](https://drive.google.com/file/d/1YLbFxAPlS9H_39bY8_ReJtcnVRud-rpl/view?usp=sharing)
+* [Report PDF]()
 * [Report Excell](Link do raportu Excell)
